@@ -13,11 +13,11 @@ how to use
 
 #####################
 
-pip3 install requirments.txt
+pip3 install -r requirments.txt
 
 -----need list.txt - {url target}
 
-pytnon3 jira-scan.py
+python3 jira-scan.py
 
 #####################
 
