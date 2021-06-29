@@ -10,13 +10,16 @@ Provide a list of websites to test with out the http or https and this will test
 
 
 how to use
-###
+
+#####################
 
 pip3 install requirments.txt
+
 -----need list.txt - {url target}
+
 pytnon3 jira-scan.py
 
-###
+#####################
 
 CVE-2017-9506
 -----
