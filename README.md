@@ -1,5 +1,15 @@
 # Jira-Scan
 
+
+
+ONLY TESTED WITH PYTHON 3
+
+Provide a list of websites to test with out the http or https and this will test each one for the SSRF vun. 
+
+![Alt text](https://pbs.twimg.com/media/Dbi_F_9X4AAjaB3.jpg:large "Screenshot")
+
+
+how to use
 ###
 
 pip3 install requirments.txt
@@ -7,12 +17,6 @@ pip3 install requirments.txt
 pytnon3 jira-scan.py
 
 ###
-
-ONLY TESTED WITH PYTHON 3
-
-Provide a list of websites to test with out the http or https and this will test each one for the SSRF vun. 
-
-![Alt text](https://pbs.twimg.com/media/Dbi_F_9X4AAjaB3.jpg:large "Screenshot")
 
 CVE-2017-9506
 -----
